@@ -29,3 +29,4 @@ python -m streamlit run app.py --server.port 8501
 - **`.env`**: Stores the local `GEMINI_API_KEY`.
 "# Rag-Model" 
 "# Rag-Model" 
+"# Rag-Model" 
