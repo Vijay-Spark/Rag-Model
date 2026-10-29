@@ -1,0 +1,115 @@
+%PDF-1.4
+1 0 obj
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+  /Type /Pages
+  /Kids [3 0 R 4 0 R]
+  /Count 2
+>>
+endobj
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 612 792]
+  /Resources <<
+    /Font <<
+      /F1 <<
+        /Type /Font
+        /Subtype /Type1
+        /BaseFont /Helvetica
+      >>
+    >>
+  >>
+  /Contents 5 0 R
+>>
+endobj
+4 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 612 792]
+  /Resources <<
+    /Font <<
+      /F1 <<
+        /Type /Font
+        /Subtype /Type1
+        /BaseFont /Helvetica
+      >>
+    >>
+  >>
+  /Contents 6 0 R
+>>
+endobj
+5 0 obj
+<<
+  /Length 480
+>>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Artificial Intelligence and Retrieval-Augmented Generation) Tj
+/F1 12 Tf
+0 -40 Td
+(Overview of Modern Information Retrieval) Tj
+0 -30 Td
+(Retrieval-Augmented Generation, commonly known as RAG, combines information) Tj
+0 -20 Td
+(retrieval mechanisms with generative large language models.) Tj
+0 -20 Td
+(Traditional language models can hallucinate facts when asked about domain-specific) Tj
+0 -20 Td
+(or proprietary knowledge not present in their training corpus.) Tj
+0 -30 Td
+(By extracting relevant context from external documents, RAG grounds the LLM) Tj
+0 -20 Td
+(responses in verifiable facts, significantly reducing hallucinations.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<<
+  /Length 460
+>>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Page 2: Vector Search and Embedding Architecture) Tj
+/F1 12 Tf
+0 -40 Td
+(Embeddings convert human-readable text into dense vectors of numerical floats.) Tj
+0 -20 Td
+(In our architecture, the all-MiniLM-L6-v2 sentence transformer produces 384-dimensional vectors.) Tj
+0 -20 Td
+(FAISS indexes these vectors to enable millisecond similarity searches using cosine distance.) Tj
+0 -30 Td
+(The company Project Titan was founded in 2024 to accelerate RAG adoption.) Tj
+0 -20 Td
+(The project budget for 2025 is set at 2.5 million dollars with a team of 14 researchers.) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000125 00000 n 
+0000000282 00000 n 
+0000000439 00000 n 
+0000000971 00000 n 
+trailer
+<<
+  /Size 7
+  /Root 1 0 R
+>>
+startxref
+1483
+%%EOF

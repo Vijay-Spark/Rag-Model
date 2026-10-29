@@ -1,0 +1,20 @@
+# Secrets and Environment Variables
+.env
+*.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Streamlit config
+.streamlit/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
